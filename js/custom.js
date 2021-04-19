@@ -7,7 +7,7 @@
         /*--------Start TYPED JS---------*/
         
             $(".typed").typed({
-                strings: ["<h1>Hello I'm Shajal Kumer.</h1>"],
+                strings: ["<h1>Hello I'm Fahmida Akter.</h1>"],
                 typeSpeed: 40,
                 showCursor:0,
                 startDelay: 5000,
